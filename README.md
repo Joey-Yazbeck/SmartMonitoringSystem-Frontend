@@ -1,3 +1,5 @@
+# SmartMonitoringSystem-Frontend
+
 This project consists of a web application built using react js. Features for the monitoring system:
 - View and manage profiles
 - View and manage targets
